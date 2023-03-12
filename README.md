@@ -22,6 +22,9 @@
 
 ![Smart_P Back2](/Images/Smart_P_ESP_31.png)
 
+## Schematic
+![Smart_P Schematic](/Doc/Smart_P_ESP_3.pdf)
+
 
 # Noticed
 This project is under development and some of the function maybe not working properly.
