@@ -8,6 +8,7 @@
 ![0001-0102_1](https://user-images.githubusercontent.com/36763555/224544774-32322b6f-d057-4b6a-b770-5388f8be41e8.gif)
 
 ## Feature
+- Use **ESP32-PICO-D4** as the core controller.
 - Have 3 configurable buttons that can work as any key on the keyboard. The button also have LED for indicator.
 - Chip **MPU6050** on board help to detect the motion of device.
 - Use **MCP73831** for battery charger.
@@ -22,9 +23,6 @@
 
 ![Smart_P Back2](/Images/Smart_P_ESP_31.png)
 
-## Schematic
-![Smart_P Schematic](/Doc/Smart_P_ESP_3.pdf)
-
-
 # Noticed
+The PCB of this project is design using KiCad V6.
 This project is under development and some of the function maybe not working properly.
