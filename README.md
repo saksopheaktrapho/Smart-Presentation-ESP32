@@ -7,6 +7,16 @@
 ## 3D Model
 ![0001-0102_1](https://user-images.githubusercontent.com/36763555/224544774-32322b6f-d057-4b6a-b770-5388f8be41e8.gif)
 
+
+
+![0001-0096_1](https://user-images.githubusercontent.com/36763555/226692270-12cc8297-9add-4ef2-84d4-d2261d5e3119.gif)
+
+
+
+https://user-images.githubusercontent.com/36763555/226692318-443d13af-2fd5-4659-83d0-cc0163288295.mp4
+
+
+
 ## Feature
 - Use **ESP32-PICO-D4** as the core controller.
 - Have 3 configurable buttons that can work as any key on the keyboard. The button also have LED for indicator.
