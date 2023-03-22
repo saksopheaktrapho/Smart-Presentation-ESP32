@@ -19,10 +19,20 @@
 
 ## Images
 ![Smart_P Front](/Images/Smart_P_ESP_3B_F.png)
+Image of 3D Model
 
 ![Smart_P Back](/Images/Smart_P_ESP_3B.png)
+Image of 3D Model
 
 ![Smart_P Back2](/Images/Smart_P_ESP_31.png)
+Image of 3D Model
+
+![Smart_P PreAsm](/Images/Smart_P_ESP_PreAsm.jpg)
+Pre-Assembly Image
+
+
+
+
 
 # Noticed
 The PCB of this project is design using KiCad V6.
