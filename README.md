@@ -27,13 +27,10 @@ Pre-Assembly Image
 ![Smart_P PreAsm](/Images/Smart_P_ESP_PreAsm.jpg)
 
 Images of the Module
-![Smart_P AftAsm1](/Images/20230324_171346.jpg) ![Smart_P AftAsm2](/Images/20230324_171304.jpg)
-![Smart_P AftAsm3](/Images/20230324_171715.jpg) ![Smart_P AftAsm4](/Images/20230324_171453.jpg)
-
-
-
-
-
+![Smart_P AftAsm1](/Images/20230324_171346.jpg)
+![Smart_P AftAsm2](/Images/20230324_171304.jpg)
+![Smart_P AftAsm3](/Images/20230324_171715.jpg)
+![Smart_P AftAsm4](/Images/20230324_171453.jpg)
 
 # Noticed
 The PCB of this project is design using KiCad V6.
