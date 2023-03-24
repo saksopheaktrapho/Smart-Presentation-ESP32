@@ -18,17 +18,18 @@
 - Connector for one cell Lithium Ion Battery.
 
 ## Images
+Images of 3D Model
 ![Smart_P Front](/Images/Smart_P_ESP_3B_F.png)
-Image of 3D Model
-
 ![Smart_P Back](/Images/Smart_P_ESP_3B.png)
-Image of 3D Model
-
 ![Smart_P Back2](/Images/Smart_P_ESP_31.png)
-Image of 3D Model
 
-![Smart_P PreAsm](/Images/Smart_P_ESP_PreAsm.jpg)
 Pre-Assembly Image
+![Smart_P PreAsm](/Images/Smart_P_ESP_PreAsm.jpg)
+
+Images of the Module
+![Smart_P AftAsm1](/Images/20230324_171346.jpg) ![Smart_P AftAsm2](/Images/20230324_171304.jpg)
+![Smart_P AftAsm3](/Images/20230324_171715.jpg) ![Smart_P AftAsm4](/Images/20230324_171453.jpg)
+
 
 
 
