@@ -17,6 +17,10 @@
 - **Vibration Motor** for alert or some indicator.
 - Connector for one cell Lithium Ion Battery.
 
+## Video
+Link to the assembly video of this project.
+https://youtube.com/shorts/3c2iB_zuU0U?feature=share
+
 ## Images
 Images of 3D Model
 ![Smart_P Front](/Images/Smart_P_ESP_3B_F.png)
@@ -34,4 +38,4 @@ Images of the Module
 
 # Noticed
 The PCB of this project is design using KiCad V6.
-This project is under development and some of the function maybe not working properly.
+This project is under development and some of the function maybe not working properly. 😉
